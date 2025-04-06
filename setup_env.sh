@@ -26,3 +26,4 @@ pip install ipykernel
 python -m ipykernel install --user --name=causal-env --display-name "Python (causal-env)"
 
 echo "✅ Setup complete! Activate your env with: source .venv/bin/activate"
+
